@@ -4,6 +4,6 @@ Chamo-me Luiz Guilherme, tenho 22 anos e moro no Rio de Janeiro. Sou apaixonado 
 
 ## Linguagens que tenho conhecimento no momento: 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" weight="40" width="40"/>
           
 </div>
