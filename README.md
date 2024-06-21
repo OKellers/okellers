@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <h2>Linguagens:</h2>
+  <h2>Conhecimentos:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" weight="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" weight="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" weight="32" width="32"/>         
