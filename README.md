@@ -1,6 +1,6 @@
 <div>
 <h3>Olá! Seja bem-vindo.</h3>
-<p align="justify">Chamo-me Luiz Guilherme, tenho 22 anos e moro no Rio de Janeiro. Sou apaixonado por jogo e desde criança acho incrível esse mundo da computação. Esse ano resolvi me aventurar nas práticas de programação para conseguir meu primeiro emprego na área. Aqui você verá minha evolução com o tempo e espero que sejam as mais impressionantes possíveis!</p>
+<p align="justify">Chamo-me Luiz Guilherme, tenho 22 anos e moro no Rio de Janeiro. Sou apaixonado por jogo e desde criança acho incrível esse mundo da computação. Com isso, comecei a me aventurar no mundo da programação e acabei me identificando na área de dados. Aqui estarei postando um pouco da minha evolução!</p>
 </div>
 
 <div>
